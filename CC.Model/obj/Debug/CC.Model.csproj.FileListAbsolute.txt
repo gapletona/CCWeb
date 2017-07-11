@@ -1,0 +1,7 @@
+C:\Stash\CC.Web\CC.Model\bin\Debug\CC.Model.dll
+C:\Stash\CC.Web\CC.Model\bin\Debug\CC.Model.pdb
+C:\Stash\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Stash\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Stash\CC.Web\CC.Model\obj\Debug\CC.Model.csprojResolveAssemblyReference.cache
+C:\Stash\CC.Web\CC.Model\obj\Debug\CC.Model.dll
+C:\Stash\CC.Web\CC.Model\obj\Debug\CC.Model.pdb

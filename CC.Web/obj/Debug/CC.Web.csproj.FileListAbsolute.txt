@@ -1,0 +1,16 @@
+C:\Stash\CC.Web\CC.Web\bin\CC.Web.dll.config
+C:\Stash\CC.Web\CC.Web\bin\CC.Web.dll
+C:\Stash\CC.Web\CC.Web\bin\CC.Web.pdb
+C:\Stash\CC.Web\CC.Web\bin\CC.DataAccess.dll
+C:\Stash\CC.Web\CC.Web\bin\CC.Model.dll
+C:\Stash\CC.Web\CC.Web\bin\EntityFramework.dll
+C:\Stash\CC.Web\CC.Web\bin\Breeze.ContextProvider.EF6.dll
+C:\Stash\CC.Web\CC.Web\bin\Breeze.ContextProvider.dll
+C:\Stash\CC.Web\CC.Web\bin\Newtonsoft.Json.dll
+C:\Stash\CC.Web\CC.Web\bin\CC.DataAccess.pdb
+C:\Stash\CC.Web\CC.Web\bin\CC.Model.pdb
+C:\Stash\CC.Web\CC.Web\bin\EntityFramework.xml
+C:\Stash\CC.Web\CC.Web\bin\Newtonsoft.Json.xml
+C:\Stash\CC.Web\CC.Web\obj\Debug\CC.Web.csprojResolveAssemblyReference.cache
+C:\Stash\CC.Web\CC.Web\obj\Debug\CC.Web.dll
+C:\Stash\CC.Web\CC.Web\obj\Debug\CC.Web.pdb

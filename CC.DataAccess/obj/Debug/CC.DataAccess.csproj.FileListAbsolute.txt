@@ -1,0 +1,16 @@
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.dll.config
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.dll
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\CC.DataAccess.pdb
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\CC.Model.dll
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.dll
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\CC.Model.pdb
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.xml
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Stash\CC.Web\CC.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Stash\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.csprojResolveAssemblyReference.cache
+C:\Stash\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.dll
+C:\Stash\CC.Web\CC.DataAccess\obj\Debug\CC.DataAccess.pdb
